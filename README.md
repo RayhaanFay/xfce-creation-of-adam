@@ -1,7 +1,9 @@
 # [XFCE] The Creation of Adam
 
-- PANEL : xfce4-panel
+Wallpaper : https://x.com/punsbymann/status/1860315813032427662
 
+- DISTRO : Kali Linux
+- PANEL : xfce4-panel (Default)
 - STYLE-THEME : Ghost-Mantis
 - WM THEME : Get_Stickbugged
 
