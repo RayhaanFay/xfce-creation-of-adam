@@ -1,5 +1,7 @@
 # [XFCE] The Creation of Adam
 
+- PANEL : xfce4-panel
+
 - STYLE-THEME : Ghost-Mantis
 - WM THEME : Get_Stickbugged
 
