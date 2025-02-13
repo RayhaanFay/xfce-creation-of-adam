@@ -16,5 +16,8 @@
 - ICON : Nordzy Cyan_Dark [Link](https://github.com/alvatip/Nordzy-icon)
 <BR/>
 
+> [!NOTE]
+> Feel free to reach out to me on Reddit if you have any questions or need assistance. I'm happy to help!
+
 ![1](https://github.com/user-attachments/assets/eeb972cc-5c66-4569-8392-56ab22b1d305)
 ![2](https://github.com/user-attachments/assets/1e3cd3df-5f66-45b1-95cd-5cd93cbb7b8f)
