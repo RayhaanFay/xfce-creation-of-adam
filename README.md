@@ -4,6 +4,7 @@
 - DISTRO : Kali Linux
 - PANEL : xfce4-panel (Default)
 <BR>
+
 - STYLE-THEME : Ghost-Mantis
 - WM THEME : Get_Stickbugged
 
