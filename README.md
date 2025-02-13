@@ -1,6 +1,8 @@
 # [XFCE] The Creation of Adam
 
 - WALLPAPER : https://x.com/punsbymann/status/1860315813032427662
+<BR>
+
 - DISTRO : Kali Linux
 - PANEL : xfce4-panel (Default)
 <BR>
