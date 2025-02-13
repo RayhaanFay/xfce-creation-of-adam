@@ -2,11 +2,13 @@
 
 - WALLPAPER : https://x.com/punsbymann/status/1860315813032427662
 <BR>
+
 - DISTRO : Kali Linux
 - PANEL : xfce4-panel (Default)
 - TERMINAL : QTerminal
 - FILE_MANAGER : Thunder
 <BR>
+
 - STYLE-THEME : Ghost-Mantis
 - WM THEME : Get_Stickbugged
 
