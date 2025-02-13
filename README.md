@@ -8,13 +8,13 @@
 - PANEL : xfce4-panel (Default)
 - TERMINAL : QTerminal
 - FILE_MANAGER : Thunder
-<BR>
+<br/>
 
 - STYLE-THEME : Ghost-Mantis
 - WM THEME : Get_Stickbugged
 - FONTS : FreeMono 10, NerdFont_Symbols_Only
 - ICON : Nordzy Cyan_Dark [Link](https://github.com/alvatip/Nordzy-icon)
-<BR/>
+<br/>
 
 > [!NOTE]
 > Feel free to reach out to me on Reddit if you have any questions or need assistance. I'm happy to help!
