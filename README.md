@@ -13,7 +13,7 @@
 - STYLE-THEME : Ghost-Mantis
 - WM THEME : Get_Stickbugged
 - FONTS : FreeMono 10, NerdFont_Symbols_Only
-- ICON : Nordzy Cyan_Dark
+- ICON : Nordzy Cyan_Dark [Link](https://github.com/alvatip/Nordzy-icon)
 <BR/>
 
 ![1](https://github.com/user-attachments/assets/eeb972cc-5c66-4569-8392-56ab22b1d305)
