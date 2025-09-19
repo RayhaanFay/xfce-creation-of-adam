@@ -1,5 +1,5 @@
-<img width="2560" height="600" alt="1" src="https://github.com/user-attachments/assets/3c9094fc-59dd-4dc1-aca4-2ee2a071d276" />\
-<br/>
+<img width="2560" height="600" alt="1" src="https://github.com/user-attachments/assets/3c9094fc-59dd-4dc1-aca4-2ee2a071d276" /> \
+<br>
 <p align="center">
   <a href="https://www.reddit.com/r/unixporn/comments/1iol9mr/xfce_the_creation_of_adam/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
     <img src="https://img.shields.io/badge/REDDIT%20%7C%20600%2B-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="REDDIT | 600+" style="width: 120px;" />
