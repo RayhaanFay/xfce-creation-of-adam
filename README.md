@@ -8,12 +8,11 @@
   </a>
 </p>
 
+## Preview
 
-
-
-
-# Preview
-
+<div align="center">
+    <img width="3264" height="1836" alt="screen" src="https://github.com/user-attachments/assets/d8b4474c-bbcc-497e-a041-aed8cbf73d64" />
+</div>
 
 
 
@@ -36,6 +35,3 @@
 > [!NOTE]
 > Feel free to reach out to me on Reddit if you have any questions or need assistance. I'm happy to help!
 <br/>
-
-![1](https://github.com/user-attachments/assets/0f880099-8f2b-4121-b538-3e6955dfb3f5)
-![2](https://github.com/user-attachments/assets/1e3cd3df-5f66-45b1-95cd-5cd93cbb7b8f)
