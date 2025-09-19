@@ -1,4 +1,4 @@
-<img width="2560" height="600" alt="1" src="https://github.com/user-attachments/assets/3c8b3e13-4d44-4215-a7a9-d4374e402dc6" />\
+<img width="2560" height="600" alt="1" src="https://github.com/user-attachments/assets/3c9094fc-59dd-4dc1-aca4-2ee2a071d276" />\
 <br/>
 <p align="center">
   <a href="https://www.reddit.com/r/unixporn/comments/1iol9mr/xfce_the_creation_of_adam/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
