@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/3c9094fc-59dd-4dc1-aca4-2ee2a071d276" height="600px" width="2560px" alt="logo" />
-</div>
+    <img src="https://github.com/user-attachments/assets/d0dc4add-cad4-4715-abe7-bc0330b50646" height="600px" width="2200px" alt="logo" />
+</div><br>
 
 <p align="center">
   <a href="https://www.reddit.com/r/unixporn/comments/1iol9mr/xfce_the_creation_of_adam/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
