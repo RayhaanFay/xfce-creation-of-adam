@@ -89,9 +89,8 @@ To make your desktop look like the preview, apply the settings manually:
   - Change the Folder option to: ~/Pictures/Wallpapers/
   - Select The Wallpaper
 
-> [!NOTE]
-> Feel free to reach out to me on Reddit if you have any questions or need assistance. I'm happy to help!
-<br/>
+> **Note:** Feel free to reach out to me on Reddit if you have any questions or need assistance.
+<br>
 
 ## 📜 Credits
 
@@ -102,5 +101,4 @@ This setup wouldn't be possible without the amazing work of the open-source comm
 * **Icon Pack:** [Nordzy-cyan-dark-mod](https://www.pling.com/p/1908883/) (Modified version of [Nordzy Icons](https://github.com/alvatip/Nordzy-icon))
 * **Wallpaper:** [The Creation of Adam](https://x.com/punsbymann/status/1860315813032427662?mcp_token=eyJwaWQiOjE0MjEzODQsInNpZCI6MTQxOTI0NjEyLCJheCI6Ijg2N2Y5OTM0NDdmYzYwOTE5OTUzNDQ3NGZmNTI4Mjc3IiwidHMiOjE3NjU4MzAxNTYsImV4cCI6MTc2ODI0OTM1Nn0.5i5-5ecyjZZctemdUKCPfGU6-8Ie7edReGETPnGsL2g&fbclid=PAT01DUAOtTZ5leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaepT2DoavXmwMGH6HqogZI1tAPStHuE7u0_Ve8iH4Wqr9GPMzZ37q0pimcl9g_aem_e6oKSqloAglHzsNYDCQPlw)
 * **Scripts:** Modified version of the original scripts from [xfce4-genmon-scripts](https://github.com/xtonousou/xfce4-genmon-scripts)
-
-> **Note:** If I have used your work and missed a credit, please open an issue or contact me so I can rectify it immediately!
+<br>
